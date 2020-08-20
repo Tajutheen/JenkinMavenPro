@@ -22,7 +22,7 @@ public class TestBank {
 	customer.setCustID(101);
 	customer.setCustName("Amir");
 	customer.setCustAddress(new Address("Erode","Tamilnadu"));
-	bank.createAccount(customer,5000);
+	bank.createAccount(customer,500);
 	
 
 }
